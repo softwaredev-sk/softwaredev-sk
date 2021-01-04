@@ -1,2 +1,2 @@
 # develover-sk.github.io
-<h1>Shailendra Kumar</h1>
+<h1 align="center">Hi, I'm Shailendra Kumar</h1>
