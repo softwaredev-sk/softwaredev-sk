@@ -14,7 +14,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=develover-sk&layout=compact)](https://github.com/develover-sk/github-readme-stats)
 ---
 <a href="https://github.com/develover-sk/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=develover-sk&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=develover-sk&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/develover-sk/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=develover-sk&repo=convoychat" />
