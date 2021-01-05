@@ -13,3 +13,4 @@
 <p><b>Contact -</b></p>
 <p>:e-mail: : <a href="mailto:shailendrakr.sk@gmail.com">shailendrakr.sk@gmail.com</a></p>
 <p>:phone: : <a href="tel:9532756276">+91-9532756276</a></p>
+[Email](mailto:shailendrakr.sk@gmail.com)
