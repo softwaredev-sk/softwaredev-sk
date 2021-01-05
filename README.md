@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shailendra Kumar 👨‍💼</h1>
-##<p align="center">☁&nbsp;FULL STACK WEB DEVELOPER&nbsp;☁</p>
+<p align="center">☁&nbsp;FULL STACK WEB DEVELOPER&nbsp;☁</p>
 <br>
 <p align="center"><img src="https://github.com/develover-sk/develover-sk/blob/main/Shailendra%20Kumar.png"></img></p>
 
