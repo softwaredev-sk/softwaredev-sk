@@ -4,6 +4,6 @@
 <br>
 <p align="center"><img src="https://github.com/develover-sk/develover-sk/blob/main/Shailendra%20Kumar.png"></img></p>
 
-* I'm currently working as <strong>Web Development</strong>
-* I'm interested in working in <em>web technologies</em>
-* <b>Javascript Developer</b>
+* I'm currently working as <strong><i>Web Development</i></strong>
+* I'm interested in working in <strong><i>Web Technologies</i></strong>
+* <strong><i>Javascript Developer</i></strong>
