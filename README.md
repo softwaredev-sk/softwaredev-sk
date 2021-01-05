@@ -11,7 +11,7 @@
 
 ---
 [![Shailendra's Github stats](https://github-readme-stats.vercel.app/api?username=develover-sk&show_icons=true&theme=dracula)](https://github.com/develover-sk/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=develover-sk)](https://github.com/develover-sk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=develover-sk&layout=compact)](https://github.com/develover-sk/github-readme-stats)
 ---
 <p><b>Contact -</b></p>
 <p>:e-mail: : <a href="mailto:shailendrakr.sk@gmail.com">shailendrakr.sk@gmail.com</a></p>
