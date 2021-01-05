@@ -11,4 +11,4 @@
 <p align="center"><a href="https://www.facebook.com/shailendrakr.sk"><img src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-24.png"></img></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shailendrakrsk"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-24.png"></img></a>&nbsp;&nbsp;<a href="https://www.twitter.com/shailendrakrsk_"><img src="https://www.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-24.png"></img></a></p>
 
 <p>Contact : <a href="mailto:shailendrakr.sk@gmail.com">shailendrakr.sk@gmail.com</a></p>
-<p>Contact : :iphone: <a href="tel:9532756276">+91-9532756276</a></p>
+<p>Contact : :iphone: <a href="tel:+919532756276">+91-9532756276</a></p>
