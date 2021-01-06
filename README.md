@@ -29,3 +29,7 @@
 <p><b>Contact -</b></p>
 <p>:e-mail: : <a href="mailto:shailendrakr.sk@gmail.com">shailendrakr.sk@gmail.com</a></p>
 <p>:phone: : <a href="tel:9532756276">+91-9532756276</a></p>
+
+---
+
+:heart: <p align="center"><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif"/></p> :heart:
