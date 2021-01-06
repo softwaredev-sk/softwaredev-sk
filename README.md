@@ -25,11 +25,10 @@
 </a></p>
 
 ---
-<font size="5">
-<p><b>Contact -</b></p>
+
+<p size="10px"><b>Contact -</b></p>
 <p>:e-mail: : <a href="mailto:shailendrakr.sk@gmail.com">shailendrakr.sk@gmail.com</a></p>
 <p>:phone: : <a href="tel:9532756276">+91-9532756276</a></p>
-</font>
 
 ---
 
