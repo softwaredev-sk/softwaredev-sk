@@ -2,7 +2,7 @@
 <p align="center">☁&nbsp;FULL STACK WEB DEVELOPER&nbsp;☁</p>
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=develover-sk&label=PROFILE+VISITORS&color=58A6FF"></img></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=develover-sk&label=Profile+Visits&color=58A6FF"></img></p>
 
 <br>
 <p align="center"><img src="https://github.com/develover-sk/develover-sk/blob/main/Shailendra%20Kumar.png"></img></p>
