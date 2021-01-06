@@ -35,4 +35,4 @@
 <p align="center"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100px"/></p>
 
 
-:heart: <p align="center"><img src="https://media.giphy.com/media/jRf4JCqluUqIV8AfLm/giphy.gif" height="20px"/></p> :heart:
+<p align="center">:heart:&nbsp;&nbsp;<img src="https://media.giphy.com/media/jRf4JCqluUqIV8AfLm/giphy.gif" height="80px"/>&nbsp;&nbsp;:heart:</p> 
