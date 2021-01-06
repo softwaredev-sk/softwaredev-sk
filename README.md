@@ -11,7 +11,7 @@
 * I'm interested in working in <strong><i>Web Technologies</i></strong>
 * <strong><i>:heart: Javascript Developer :heart:</i></strong>
 <br><br>
-<p align="center"><a href="https://www.linkedin.com/in/shailendrakrsk/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-24.png"></img></a>&nbsp;&nbsp;<a href="https://www.facebook.com/shailendrakr.sk"><img src="https://cdn0.iconfinder.com/data/icons/small-n-flat/24/678128-social-facebook-24.png"></img></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shailendrakrsk"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-24.png"></img></a>&nbsp;&nbsp;<a href="https://www.twitter.com/shailendrakrsk_"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-24.png"></img></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/shailendrakrsk/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-24.png"></img></a>&nbsp;&nbsp;<a href="https://www.facebook.com/shailendrakr.sk"><img src="https://cdn0.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-2019-square1-24.png"></img></a>&nbsp;&nbsp;<a href="https://www.instagram.com/shailendrakrsk"><img src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-24.png"></img></a>&nbsp;&nbsp;<a href="https://www.twitter.com/shailendrakrsk_"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-24.png"></img></a></p>
 
 ---
 <a href="https://github.com/develover-sk/github-readme-stats">
