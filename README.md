@@ -32,4 +32,4 @@
 
 ---
 
-:heart: <p align="center"><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/></p> :heart:
+:heart: <p align="center"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="150px"/>&nbsp;&nbsp;<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150px"/></p> :heart:
