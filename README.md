@@ -32,4 +32,6 @@
 
 ---
 
-:heart: <p align="center"><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif"/></p> :heart:
+:heart: <p align="center"><img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/></p> :heart:
+
+<iframe src="https://giphy.com/embed/ln7z2eWriiQAllfVcn" width="100" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn">via GIPHY</a></p>
