@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shailendra Kumar 👨‍💼</h1>
 <p align="center">☁&nbsp;FULL STACK WEB DEVELOPER&nbsp;☁</p>
 <br>
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VISITORS&color=58A6FF)
+![](https://komarev.com/ghpvc/?username=develover-sk&label=PROFILE+VISITORS&color=58A6FF)
 <br>
 <p align="center"><img src="https://github.com/develover-sk/develover-sk/blob/main/Shailendra%20Kumar.png"></img></p>
 
