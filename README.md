@@ -5,7 +5,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=develover-sk&label=Profile+Visits&color=A51C30"></img></p>
 
 <br>
-<p align="center"><img src="https://github.com/develover-sk/develover-sk/blob/main/ShailendraKumar.png"></img></p>
+<p align="center"><img src="https://drive.google.com/file/d/1q2oueq42U5Nhm2WdncsxNyFZzavHy5pi/view?usp=sharing"></img></p>
 
 * I'm currently working in <strong><i>Web Development</i></strong> :computer:
 
