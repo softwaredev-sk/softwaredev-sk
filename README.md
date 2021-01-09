@@ -17,11 +17,11 @@
 
 ---
 <p align="center"><a href="https://github.com/develover-sk/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=develover-sk&show_icons=true&count_private=true&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=develover-sk&show_icons=true&count_private=true&theme=dracula" width="500px"/>
 </a></p>
 <br>
 <p align="center"><a href="https://github.com/develover-sk/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develover-sk&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develover-sk&layout=compact" width="500px"/>
 </a></p>
 
 ---
