@@ -21,7 +21,7 @@
 </a></p>
 <br>
 <p align="center"><a href="https://github.com/develover-sk/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develover-sk&layout=compact" width="500px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develover-sk&layout=compact" />
 </a></p>
 
 ---
