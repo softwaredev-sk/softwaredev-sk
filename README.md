@@ -26,7 +26,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develover-sk&layout=compact" />
 </a></p>
 
-<hr align="center" width="40%">
+<hr width="40%" align="center" />
 NOTE: Top languages used does not indicate my skill level or something like that, it just shows that the code in particular language is present in that fraction.
 
 ---
