@@ -7,7 +7,9 @@
 <br>
 <p align="center"><img src="https://github.com/develover-sk/develover-sk/blob/main/Shailendra-rounded-corner.png"></img></p>
 
-* I'm currently working in <strong><i>Web Development</i></strong> :computer:
+* COMPUTER SCIENCE AND ENGINEERING - B.TECH
+
+* I'm currently learning <strong><i>Web Development</i></strong> :computer:
 
 * I'm interested in working in <strong><i>Web Technologies</i></strong>
 
@@ -24,6 +26,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develover-sk&layout=compact" />
 </a></p>
 
+---
+NOTE: Top languages used does not indicate my skill level or something like that, it just shows that the code in particular language is present in that fraction.
 ---
 
 <p><b>CONTACT -</b></p>
