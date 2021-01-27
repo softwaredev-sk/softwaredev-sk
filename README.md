@@ -13,7 +13,7 @@
 
 - I'm interested in working in <strong><i>Web Technologies</i></strong> ⏱
 
-- I Love building on Digital Products 💬🔗
+- I Love building Digital Products 💬🔗
 
 * Enthusiastic for Web Applications 💓
 
@@ -43,7 +43,8 @@ NOTE: 'Most Used Languages' column does not indicate my skill level or something
 
 ---
 
-<p align="center">Tools and Technologies</p>
+<p align="center"><u>Tools and Technologies</u></p>
+<br>
 
 <p align="center"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100px"/>&nbsp;&nbsp;<img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="100px"/></p>
 
