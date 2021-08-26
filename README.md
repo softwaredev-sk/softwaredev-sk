@@ -1,4 +1,4 @@
-<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=FF0037&size=30&center=true&vCenter=true&lines=Hello%2C+There!)](https://git.io/typing-svg)</p>
+<p align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=FF0037&size=30&center=true&vCenter=true&lines=Hello%2C+There!)](https://git.io/typing-svg) </p>
 <h1 align="center">Hi, I'm Shailendra Kumar 👨‍💼</h1>
 <p align="center">☁&nbsp;FULL STACK WEB DEVELOPER&nbsp;☁</p>
 <br>
