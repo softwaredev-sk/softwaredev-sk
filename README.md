@@ -3,7 +3,7 @@
 <br>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=develover-sk&label=Profile+Visits&color=A51C30"></img></p>
-<p align="center"><img src="https://github.com/develover-sk/develover-sk/blob/main/shailendrakrsk-HackerRank-black.png"></img></p>
+<p align="center"><img src="https://github.com/develover-sk/develover-sk/blob/main/shailendrakrsk-HackerRank-updated.png"></img></p>
 
 - COMPUTER SCIENCE AND ENGINEERING - B.TECH
 
