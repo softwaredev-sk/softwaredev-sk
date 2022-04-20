@@ -38,6 +38,8 @@ NOTE: 'Most Used Languages' card does not indicate my skill level or something l
 <p><b>CONTACT -</b></p>
 <p>:e-mail: : <a href="mailto:shailendrakr.sk@gmail.com">shailendrakr.sk@gmail.com</a></p>
 <p>:phone: : <a href="https://bit.ly/3vvnXUF">WhatsApp??</a></p>
+
+
 ---
 
 <p align="center"><strong><i>Tools and Technologies</i></strong></p>
