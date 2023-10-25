@@ -13,7 +13,7 @@
 
 - I Love building Digital Products 💬🔗
 
-* Enthusiastic for Web Applications 💓
+* Enthusiastic for Web Technologies 💓
 
 - <strong><i>:heart: Javascript Developer :heart:</i></strong>
 <br><br>
