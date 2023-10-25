@@ -5,9 +5,9 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=develover-sk&label=Profile+Visits&color=A51C30"></img></p>
 <p align="center"><img src="https://github.com/develover-sk/develover-sk/blob/main/shailendrakrsk-HackerRank-updated.png"></img></p>
 
-- COMPUTER SCIENCE AND ENGINEERING - B.TECH
+- Bachelors of Technology (COMPUTER SCIENCE AND ENGINEERING)
 
-- I'm currently learning <strong><i>Web Development</i></strong> :computer:
+- Full Stack <strong><i>Web Developer</i></strong> :computer:
 
 - I'm interested in working in <strong><i>Web Technologies</i></strong> ⏱
 
