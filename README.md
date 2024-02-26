@@ -2,8 +2,8 @@
 <p align="center">☁&nbsp;FULL STACK WEB DEVELOPER&nbsp;☁</p>
 <br>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=develover-sk&label=Profile+Visits&color=A51C30"></img></p>
-<p align="center"><img src="https://github.com/develover-sk/develover-sk/blob/main/shailendrakrsk-HackerRank-updated.png"></img></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=softwaredev-sk&label=Profile+Visits&color=A51C30"></img></p>
+<p align="center"><img src="https://github.com/softwaredev-sk/softwaredev-sk/blob/main/shailendrakrsk-HackerRank-updated.png"></img></p>
 
 - Bachelors of Technology (COMPUTER SCIENCE AND ENGINEERING)
 
@@ -21,12 +21,12 @@
 
 ---
 
-<p align="center"><a href="https://github.com/develover-sk/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=develover-sk&show_icons=true&count_private=true&theme=dracula" />
+<p align="center"><a href="https://github.com/softwaredev-sk/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=softwaredev-sk&show_icons=true&count_private=true&theme=dracula" />
 </a></p>
 <br>
-<p align="center"><a href="https://github.com/develover-sk/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=develover-sk&layout=compact" />
+<p align="center"><a href="https://github.com/softwaredev-sk/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwaredev-sk&layout=compact" />
 </a></p>
 
 <p align="center">—————————————————————————</p>
