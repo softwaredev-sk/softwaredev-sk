@@ -31,8 +31,6 @@
 
 <p align="center">—————————————————————————</p>
 
-NOTE: 'Most Used Languages' card does not indicate my skill level or something like that, it just shows that the code in particular language is present in that fraction.
-
 ---
 
 <p><b>CONTACT -</b></p>
